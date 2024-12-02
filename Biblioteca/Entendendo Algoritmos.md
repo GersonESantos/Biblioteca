@@ -4,8 +4,9 @@
 tag: 📚Book
 title: "Entendendo Algoritmos"
 subtitle: "Um guia ilustrado para programadores e outros curiosos"
-author: [Aditya Y. Bhargava]
+autor:: Aditya Y. Bhargava
 category: [Computers]
+assunto::Computador
 publisher: Novatec Editora
 publish: 2018-03-01
 total: 310

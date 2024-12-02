@@ -3,9 +3,11 @@ tags:
   - 📚Book
 title: Cem anos de solidão
 subtitle: ""
-author:
+
+autor:
   - Gabriel García Márquez
   - Eric Nepomuceno
+assunto::Computador
 category: 
 publisher: 
 publish: 1967

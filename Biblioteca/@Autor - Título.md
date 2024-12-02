@@ -19,8 +19,7 @@
 
 ```latex
 @article{Benyezza2021,
-author = {Benyezza, Hamza and Bouhedda, Mounir and Rebouh, Samia},
-doi = {10.1016/j.jclepro.2021.127001},
+
 autor::{Benyezza, Hamza and Bouhedda, Mounir and Rebouh, Samia},
 doi = {10.1016/j.jclepro.2021.127001
 assunto::Artigo Cientifico

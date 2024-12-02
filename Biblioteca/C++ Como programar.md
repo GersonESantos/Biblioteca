@@ -8,8 +8,9 @@
 tag: 📚Book
 title: "C++. Cómo programar"
 subtitle: ""
-author: [Harvey M. Deitel, Paul J. Deitel]
+autor:: Harvey M. Deitel, Paul J. Deitel
 category: [Computers]
+assunto::Computador
 publisher: 
 publish: 2009
 total: 1112
